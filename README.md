@@ -2,5 +2,7 @@
 
 ## Integrantes:
 Araujo Lucas Sebastián
+
 Camino Nebila Sofía
+
 Paez Alanez Elian Rodrigo
