@@ -6,6 +6,9 @@
   - Creador del repositorio
   - Encargado de los merge de pull requests
 
-Camino Nebila Sofía
+- Camino Nebila Sofía [(lovszen)](https://github.com/lovszen)
+  - Colaborador
+  - Agregué información de integrante en formato txt
+
 
 Paez Alanez Elian Rodrigo
