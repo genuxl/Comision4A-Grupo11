@@ -11,6 +11,6 @@
   - Agregué información de integrante en formato txt
 
 
-- Paez Alanez Elian Rodrigo [(elianpaez)] (https://github.com/elianpaez)
+- Paez Alanez Elian Rodrigo [(elianpaez)](https://github.com/elianpaez)
   - colaborador
   - Agregue informacion de integrante en txt
